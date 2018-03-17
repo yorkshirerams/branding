@@ -23,13 +23,17 @@ body > .container {
   padding-left: 15px;
 }
 
+.header-text {
+  padding-top: 50px;
+}
+
 .header-logo {
   width: 100px;
   margin-right: 30px;
 }
 
 .colors {
-  padding-top: 50px;
+  padding-top: 10px;
 }
 
 .logo-download {
