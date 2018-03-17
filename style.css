@@ -1,0 +1,73 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  background-color: #292929;
+}
+ 
+body > .container {
+  padding: 60px 15px 0;
+}
+ 
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.header-logo {
+  width: 100px;
+  margin-right: 30px;
+}
+
+.colors {
+  padding-top: 50px;
+}
+
+.logo-download {
+  font-size: 0.75em;
+}
+
+.logos {
+  padding-top: 50px;
+}
+
+.logo {
+  width: 150px;
+}
+
+.gold {
+  background-color: #FFCD64;
+}
+
+.black {
+  background-color: #020202;
+}
+
+.dark-grey {
+  background-color: #292929;
+}
+
+.light-grey {
+  background-color: #C2C2C4;
+}
+
+.white {
+  background-color: #FFFFFF;
+}
+
+.table > tbody > tr > td {
+  vertical-align: middle;
+}
+
+.logos tbody > tr {
+  line-height: 175px;
+}
